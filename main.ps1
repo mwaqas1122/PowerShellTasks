@@ -1,0 +1,1 @@
+﻿C:\PowerShell\secondry.ps1 -Number1 55 -Number2 44
